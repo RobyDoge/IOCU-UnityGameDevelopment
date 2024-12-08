@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4944b7623ab9c1f41a3df0e09f17ed86
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _openChestSound: {fileID: 8300000, guid: f666c00dbd37b0f41bf303dc41f81b3a, type: 3}
+  - _GoldSound: {fileID: 8300000, guid: 43ab2c7fa5f0d964a8265c4610a7688b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
