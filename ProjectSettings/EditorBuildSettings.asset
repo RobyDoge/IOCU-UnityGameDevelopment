@@ -8,12 +8,24 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 0
-    path: Assets/Scenes/Lab7 - Labyrinth.unity
-    guid: aeffb02bb46af28409d37f22a647d1dd
+  - enabled: 1
+    path: Assets/Scenes/Lab9 - Menu.unity
+    guid: be7f37e9943d7c040a9c7abe88914cfc
   - enabled: 1
     path: Assets/Scenes/VictoryScreen.unity
     guid: e020f71513089fc4aaa9c7ce7220a29e
+  - enabled: 1
+    path: Assets/Scenes/Lab2 - MoveGameObject.unity
+    guid: 15f6bf9b0045543418cc897b637875a2
+  - enabled: 1
+    path: Assets/Scenes/Lab3 - Collision Detection.unity
+    guid: 6f983701305b6c249bc089d7a1c08823
+  - enabled: 1
+    path: Assets/Scenes/Lab5 - Platforming2.unity
+    guid: c1c6988396a887b4bbe1a50ccfbe26ea
+  - enabled: 1
+    path: Assets/Scenes/Lab8 - SaveLoad.unity
+    guid: f66abaadfa459d54ab3d693d331f6706
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
